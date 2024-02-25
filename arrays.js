@@ -1,3 +1,5 @@
-kjgkjg
+const numbers = [5, 7 ,10, 15];
 
-jkjdjdjdjgitgit
+//size array
+console.log('The size of thr arrays = ' + numbers.length);
+
