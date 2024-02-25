@@ -5,4 +5,9 @@ const arr = ['Mouse', 'Laptop'];
 arr.push('Phone');
 
 console.log(arr);
+
+// pop() method to remove the last elements
+
+arr.pop();
+
 console.log(arr);
